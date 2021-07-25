@@ -1,0 +1,11 @@
+body {
+	background: linear-gradient(270deg, #5C258D 10%, #4389A2 90%);
+	color:rgb(216, 238, 16);
+	font-family:"Italic";
+	font-size: 20px;
+}
+p{
+    display:inline-block;
+	font-size: 24px;
+    /*position:absolute;*/
+}
